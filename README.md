@@ -1,4 +1,4 @@
-
+# 💫 About Me:
 👋 Hi, I’m Harsh!<br>🚀 Full-stack developer skilled in Java development and the MERN stack, with experience building real-world, product-focused web applications. 💻 I enjoy working on backend logic, APIs, and databases, and building scalable, maintainable systems while continuously learning and improving my development skills 📚⚙️
 
 
@@ -12,17 +12,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=harsh-bairagi4&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-bairagi4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh-bairagi4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harsh-bairagi4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Contribution 
+![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh-bairagi4&theme=react-dark)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/harshbairagi) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
