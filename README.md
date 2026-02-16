@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m Harsh!<br>🚀 Full-stack developer skilled in Java development and the MERN stack, with experience building real-world, product-focused web applications. 💻 I enjoy working on backend logic, APIs, and databases, and building scalable, maintainable systems while continuously learning and improving my development skills 📚⚙️
 
 
